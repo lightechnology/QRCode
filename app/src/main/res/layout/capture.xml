@@ -9,7 +9,7 @@
         android:layout_height="fill_parent"
         android:layout_gravity="center" />
 
-    <com.util.zxing.view.ViewfinderView
+    <com.util.qrcode.view.ViewfinderView
         android:id="@+id/viewfinder_vew"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
